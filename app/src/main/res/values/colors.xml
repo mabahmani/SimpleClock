@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#311B92</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="deep_purple_900">#311B92</color>
+    <color name="deep_purple_400">#673AB7</color>
+    <color name="blue_grey_300">#90A4AE</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="pink_900">#880E4F</color>
+    <color name="pink_600">#D81B60</color>
+    <color name="blue_900">#0D47A1</color>
+    <color name="blue_600">#1E88E5</color>
+</resources>
